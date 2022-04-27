@@ -1,5 +1,5 @@
 <figure>
-<img src="./img/logo.png"alt="Practable logo with three hexagons and tagline: non-traditional practical work" style="width:40%">
+<img src="https://raw.githubusercontent.com/practable/img/main/logo.png"alt="Practable logo with three hexagons and tagline: non-traditional practical work" style="width:40%">
 </figure>
 
 Open-source digital infrastructure and hardware for world-wide sharing of remote laboratories in education. 
@@ -21,8 +21,8 @@ A shared approach lowers the barrier to entry for everyone, so we can all grow o
 Remote laboratories come in all shapes and sizes. Our first adopters are focusing on form-factors that let them use public spaces on their campuses. The most recent designs are housed in model shipping containers, to represent the hybrid travel that takes place when a learner accesses an experiment. The first generation wooden boxes have a variegated front panel design to represent the blending of online and in-person spaces.
 
 <figure>
-<img src="./img/AGB.jpg" alt="Remote lab experiments in foyer in model containers" style="width:48%">
-<img src="./img/CR2-ar1p5.jpg" alt="Remote lab experiments in wooden boxes in classroom" style="width:48%">
+<img src="https://raw.githubusercontent.com/practable/img/main/AGB.jpg" alt="Remote lab experiments in foyer in model containers" style="width:48%">
+<img src="https://raw.githubusercontent.com/practable/img/main/CR2-ar1p5.jpg" alt="Remote lab experiments in wooden boxes in classroom" style="width:48%">
 
 <figcaption align = "center"><b>Examples of remote laboratory experiment installations at UK Higher Education campuses</b></figcaption>
 </figure>
