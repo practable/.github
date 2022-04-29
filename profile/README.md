@@ -4,6 +4,8 @@
 
 Open-source digital infrastructure and hardware for world-wide sharing of remote laboratories in education. 
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 ## Why remote laboratories?
 
 Learners require greater access to practical work in order to achieve today's educational goals. Remote laboratories help overcome the resource squeeze and open new opportunities for pedagogical developments.
