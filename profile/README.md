@@ -30,10 +30,13 @@ Remote laboratories come in all shapes and sizes. Our first adopters are focusin
 </figure>
 
 
-## Contributing
+## Contributing / Adopting
 
-We welcome contributions, feature requests, and issues. We're still developing documentation for all the great stuff we've built so far, so a fully asynchronous non-gatekeeper approach to contributions is slightly further down the road. Meanwhile, just drop Tim a message at <tim@practable.io> to get started. If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here.
+We welcome contributions, feature requests, and issues. Our contribution guidelines are [here](https://github.com/practable/.github/blob/522a3ff4bb039da113a273b92cf73436778faf2f/docs/CONTRIBUTING.md). 
 
+We're still developing documentation for all the great stuff we've built so far, so a fully asynchronous / non-gate-kept approach to contributions, or  getting started, is slightly further down the road. Meanwhile, just drop Tim a message at <tim@practable.io>. 
+
+If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here.
 
 ## Bibliography
 
