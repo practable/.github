@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/practable/img/main/logo.png"alt="Practable logo with three hexagons and tagline: non-traditional practical work" style="width:40%">
 </figure>
 
-Open-source digital infrastructure and hardware for world-wide sharing of remote laboratories in education. 
+Open-source digital infrastructure and hardware for remote laboratories in education 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
@@ -47,24 +47,27 @@ All of the papers below should be openly accessible. If any are not, please just
 
 [Selected recent presentations are available here](https://github.com/practable/presentations)
 
+## Adopting
 
-## Contributing / Adopting
+Practable is a community-driven project (see papers above for wide range of authorship) that wants to support your institution in having its own identity, as well as benefiting from resource sharing with others. 
 
-We very much welcome contributions, feature requests, and issues. Our contribution and licensing guidelines are [here](https://github.com/practable/.github/blob/522a3ff4bb039da113a273b92cf73436778faf2f/docs/CONTRIBUTING.md). The code is changing rapidly as we work toward the v1 release so please contact us first before getting started - just drop Tim a message at <tim@practable.io> or <timothy.drysdale@ed.ac.uk>.
+The system comprises cloud infrastructure and physical experiments. We can share access to our existing facilities, help you build your own, or even build a bespoke turn-key solution for you with your branding - please get in contact to discuss how we can help. At this time, contracts will be processed through the University of Edinburgh (<timothy.drysdale@ed.ac.uk>).
 
-### Licensing and Open Educational Resource policies - low friction, for the good of the community
-In short, everything is open-source but the license varies to suit the type of contribution (e.g. hardware designs are different to server code). Your institution probably already has an [open educational resource policy](https://open.ed.ac.uk/) permitting you to start contributing immediately without asking any further permission. In these cases, to keep life simple for you and for us, we'll assume your contributions are copyright your institution, regardless of what email your Github account uses. Multiple copyright holders is normal for open-source projects, and helps keep projects open, for the good of the community. In fact, there is a free Practable mug (UK-shipping paid) for the first contribution from another institution to the AGPLv3 code!
+A key part of the process is the co-development of technology and pedagogy to suit the unique educational goals of each of your courses. We have existing off-the-shelf designs for hardware and user interfaces, and more on the way, if you need experiments on a shorter time frame.
 
-### Future involvements
+## Contributing 
+
+We very much welcome contributions, feature requests, and issues. Our contribution and licensing guidelines are [here](https://github.com/practable/.github/blob/522a3ff4bb039da113a273b92cf73436778faf2f/docs/CONTRIBUTING.md). The code is changing rapidly as we integrate lessons from two years of high-stakes usage on credit-bearing courses, and will stabilise for the v1 release in due course, so please contact us first before getting started on any contributions (<tim@practable.io>).
+
+If you use a personal email address for Github, and wish to acknowledge an institutional copyright on your contributions, you can do that [here](https://github.com/practable/.github/blob/main/docs/COPYRIGHTS.md)
+
 If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here.
 
 ### Adopters
 <img src="https://raw.githubusercontent.com/practable/img/main/UoE_Stacked Logo_CMYK_v1_160215.jpg" alt="University of Edinburgh School of Engineering logo" style="width:30%">
 
-If you are using practable, submit a PR or email us so we can include your logo here.
-
-### Supporters
+### Funders
 <img src="https://raw.githubusercontent.com/practable/img/main/Engineering_2col_cmyk.jpg" alt="University of Edinburgh School of Engineering logo" style="width:35%">
 
-If you are contributing to practable, submit a PR or email us so we can include your logo here.
+Please consider supporting the development of STEM education by adopting and/or funding Practable!
 
