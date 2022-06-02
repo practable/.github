@@ -29,18 +29,11 @@ Remote laboratories come in all shapes and sizes. Our first adopters are focusin
 <figcaption align = "center"><b>Examples of remote laboratory experiment installations at UK Higher Education campuses</b></figcaption>
 </figure>
 
+## Example Academic Outputs
 
-## Contributing / Adopting
+### Papers
 
-We welcome contributions, feature requests, and issues. Our contribution guidelines are [here](https://github.com/practable/.github/blob/522a3ff4bb039da113a273b92cf73436778faf2f/docs/CONTRIBUTING.md). 
-
-We're still developing documentation for all the great stuff we've built so far, so a fully asynchronous / non-gate-kept approach to contributions, or  getting started, is slightly further down the road. Meanwhile, just drop Tim a message at <tim@practable.io>. 
-
-If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here.
-
-## Bibliography
-
-All of the references below should be openly accessible. If any are not, please just let us know so we can arrange alternative hosting for the affected paper.
+All of the papers below should be openly accessible. If any are not, please just let us know so we can arrange alternative hosting for the affected paper.
 
 [Open-source remote laboratory experiments for controls engineering education](https://doi.org/10.1177/03064190221081451)
 
@@ -49,3 +42,29 @@ All of the references below should be openly accessible. If any are not, please 
 [Post—humanistic 'practices of community' for non-traditional laboratory work](https://www.sefi.be/wp-content/uploads/2019/10/SEFI2019_Proceedings.pdf) (p360-p369)
 
 [The future of higher education (HE) hangs on innovating our assessment – but are we ready, willing and able?](https://doi.org/10.1080/23752696.2020.1771610)
+
+### Presentations
+
+[Selected recent presentations are available here](https://github.com/practable/presentations)
+
+
+## Contributing / Adopting
+
+We very much welcome contributions, feature requests, and issues. Our contribution and licensing guidelines are [here](https://github.com/practable/.github/blob/522a3ff4bb039da113a273b92cf73436778faf2f/docs/CONTRIBUTING.md). The code is changing rapidly as we work toward the v1 release so please contact us first before getting started - just drop Tim a message at <tim@practable.io> or <timothy.drysdale@ed.ac.uk>.
+
+### Licensing and Open Educational Resource policies - low friction, for the good of the community
+In short, everything is open-source but the license varies to suit the type of contribution (e.g. hardware designs are different to server code). Your institution probably already has an [open educational resource policy](https://open.ed.ac.uk/) permitting you to start contributing immediately without asking any further permission. In these cases, to keep life simple for you and for us, we'll assume your contributions are copyright your institution, regardless of what email your Github account uses. Multiple copyright holders is normal for open-source projects, and helps keep projects open, for the good of the community. In fact, there is a free Practable mug (UK-shipping paid) for the first contribution from another institution to the AGPLv3 code!
+
+### Future involvements
+If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here.
+
+### Adopters
+<img src="https://raw.githubusercontent.com/practable/img/main/UoE_Stacked Logo_CMYK_v1_160215.jpg" alt="University of Edinburgh School of Engineering logo" style="width:30%">
+
+If you are using practable, submit a PR or email us so we can include your logo here.
+
+### Supporters
+<img src="https://raw.githubusercontent.com/practable/img/main/Engineering_2col_cmyk.jpg" alt="University of Edinburgh School of Engineering logo" style="width:35%">
+
+If you are contributing to practable, submit a PR or email us so we can include your logo here.
+
