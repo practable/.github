@@ -6,6 +6,6 @@ If you use a personal email address with your Github account, but your contribut
 
 # Declarations of copyright 
 
-- Timothy D. Drysdale (timothy.d.drysdale@gmail.com): contributions 2018-08-01 onwards are (c) University of Edinburgh
+- Timothy D. Drysdale (timothy.d.drysdale@gmail.com, tim@practable.io): contributions 2018-08-01 onwards are (c) University of Edinburgh
 
  
