@@ -61,7 +61,7 @@ We very much welcome contributions, feature requests, and issues. Our contributi
 
 If you use a personal email address for Github, and wish to acknowledge an institutional copyright on your contributions, you can do that [here](https://github.com/practable/.github/blob/main/docs/COPYRIGHTS.md)
 
-If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here.
+If you like the idea of remote labs, but are not sure whether it would work for you, we're also keen to hear about what your particular barriers to adoption might be. Perhaps we are already working on a solution not visible here. Feel free to join the [discussion](https://github.com/practable/relay/discussions) and share your perspective with us.
 
 ### Adopters
 <img src="https://raw.githubusercontent.com/practable/img/main/UoE_Stacked Logo_CMYK_v1_160215.jpg" alt="University of Edinburgh School of Engineering logo" style="width:30%">
