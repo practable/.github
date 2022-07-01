@@ -64,6 +64,12 @@ These are important aspects and we will develop more guidelines as we figure the
 
 The infrastructure code is written in golang and currently the documentation needs expanding. Anyone interested in understanding this code better, or contributing to it, is welcome to contact its maintainer <tim@practable.io>. There is a good overview of the basic relay operation in [this paper](https://doi.org/10.1177%2F03064190221081451)
 
+We are updating the architecture to support the move onto kubernetes, so expect major changes.
+
+### Commit messages and reviewing
+
+There is great advice [here](https://github.blog/2022-06-30-write-better-commits-build-better-projects/) on how to structure commits to improve reviewability and overall project quality - it involves some advanced git fu such as rebasing, but it mirrors the scientific process of taking lab notes and re-ordering and re-representing them for peer review. I.e. commit as needed during the work, then rebase to reorder, split, combine and reword as required to make it make sense for the reviewer. If you are reviewing a pull request and cannot easily understand the changes from the outline in the PR and reading the commits, then feel free to leave a comment asking for clarification and/or changes. 
+
 ## Any contributions you make will be under one of the following licenses
 
 In short, when you submit code changes, your submissions are understood to be under the same(s) license as the repos you are contributing to. The licenses vary according to the part of the project. Feel free to contact the maintainers if that's a concern. 
